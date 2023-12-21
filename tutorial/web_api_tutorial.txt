@@ -1,0 +1,10 @@
+Application Program Interface
+
+http protocol - web protocol
+
+Http methods:
+get - select
+post - insert
+put - upsert - update + insert
+patch - egyfajta update
+delete - delete
