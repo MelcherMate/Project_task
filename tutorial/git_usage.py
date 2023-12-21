@@ -14,6 +14,7 @@ Git has 2 flows:
 - One is when we hav a git operated code:
     - once I created a stage, i can commit ti
     - i will do and can do the commit
+    - I create a remote branch on github and push my ready code
 
 
     - first you create a change on your code (can be only 1 new caracter or line as well)
